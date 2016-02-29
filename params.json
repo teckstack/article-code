@@ -1,1 +1,7 @@
-{"name":"Article-code","tagline":"Repository for Code/Demo associated with articles.","body":"# article-code\r\nRepository for Code/Demo associated with articles.\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+    "name":"Article-code",
+    "tagline":"Repository for Code/Demo associated with articles.",
+    "body":"# article-code\r\nRepository for Code/Demo associated with articles.\r\n",
+    "google":"",
+    "note":"Don't delete this file! It's used internally to help with page regeneration."
+}
