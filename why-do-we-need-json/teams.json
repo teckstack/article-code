@@ -1,0 +1,24 @@
+{
+    "teams": [
+        {
+            "name": "Mark Zukerberg",
+            "designation": "Founder, Facebook"
+        },
+        {
+            "name": "Jack Dorsey",
+            "designation": "CEO, Twitter"
+        },
+        {
+            "name": "Larry Page",
+            "designation": "CEO, Google"
+        },
+        {
+            "name": "Kushal Jayswal",
+            "designation": "Founder, TeckStack"
+        },
+        {
+            "name": "Ronak Raval",
+            "designation": "Founder, mQube"
+        }
+    ]
+}

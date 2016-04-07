@@ -1,0 +1,4 @@
+body{ text-align: center; }
+.col-50{ display: inline-block; width: 50%; }
+.col { background: #eee; padding: 10px; border-collapse: collapse; margin: 1px; }
+.team-grid{ max-width: 800px; margin: 0 auto; }
